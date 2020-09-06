@@ -1,1 +1,2 @@
 # RN-AnimatedLoginScreen
+![](gif.gif)
